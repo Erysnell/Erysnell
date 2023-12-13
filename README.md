@@ -10,10 +10,14 @@
 
 ![HTML, CSS, Javascript](https://skillicons.dev/icons?i=html,css,js)
 ---
+#### Backend:
 
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+---
 ##### 💻 Programming Languages:
-![Java, PostgreSQL](https://skillicons.dev/icons?i=java,postgresql)
+
+![Java](https://skillicons.dev/icons?i=java)
 ---
 
-##### 📖 Learning
+##### 📖 Learning:
 ![Flutter, Dart](https://skillicons.dev/icons?i=flutter,dart)
