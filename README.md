@@ -8,11 +8,11 @@
 ### 🌐 Web Development:
 #### Frontend:
 
-![HTML, CSS, Javascript](https://skillicons.dev/icons?i=html,css,js)
+![HTML, CSS, Javascript, Typescript](https://skillicons.dev/icons?i=html,css,js,ts)
 ---
 #### Backend:
 
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![PostgreSQL, MongoDB](https://skillicons.dev/icons?i=postgresql,mongodb)
 ---
 ##### 💻 Programming Languages:
 
@@ -20,4 +20,4 @@
 ---
 
 ##### 📖 Learning:
-![Flutter, Dart](https://skillicons.dev/icons?i=flutter,dart)
+![Angular](https://skillicons.dev/icons?i=angular)
