@@ -12,7 +12,7 @@
 ---
 #### Backend:
 
-![PostgreSQL, MongoDB](https://skillicons.dev/icons?i=postgresql,mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ---
 ##### 💻 Programming Languages:
 
