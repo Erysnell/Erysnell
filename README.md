@@ -8,7 +8,7 @@
 ### 🌐 Web Development:
 #### Frontend:
 
-![HTML, CSS, Javascript, Typescript](https://skillicons.dev/icons?i=html,css,js,ts)
+![HTML, CSS, Javascript, Typescript](https://skillicons.dev/icons?i=html,css,js,ts,angular)
 ---
 #### Backend:
 
@@ -20,4 +20,4 @@
 ---
 
 ##### 📖 Learning:
-![Angular](https://skillicons.dev/icons?i=angular)
+![Angular](https://skillicons.dev/icons?i=django)
