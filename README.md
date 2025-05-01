@@ -12,11 +12,8 @@
 ---
 #### Backend:
 
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
----
-##### 💻 Programming Languages:
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql,python,java)
 
-![Java](https://skillicons.dev/icons?i=java)
 ---
 
 ##### 📖 Learning:
