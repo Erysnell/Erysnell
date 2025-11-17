@@ -8,13 +8,15 @@
 ### 🌐 Web Development:
 #### Frontend:
 
-![HTML, CSS, Javascript, Typescript](https://skillicons.dev/icons?i=html,css,js,ts,angular)
+![HTML, CSS, Javascript, Typescript, Angular](https://skillicons.dev/icons?i=html,css,js,ts,angular)
 ---
+
 #### Backend:
 
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql,python,java)
-
+![Python](https://skillicons.dev/icons?i=python,django,java)
 ---
 
-##### 📖 Learning:
-![Angular](https://skillicons.dev/icons?i=django)
+#### Bases de datos:
+
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql,sqlite)
+---
