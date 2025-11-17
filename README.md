@@ -1,6 +1,6 @@
 # Hi! I'm Erysnell! 👋
 
-📚 Computer Science Engineering Student<br>
+💻 Computer Science Engineer<br>
 
 ---
 ### ⚡ **My skills**
