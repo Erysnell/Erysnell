@@ -5,10 +5,9 @@
 ---
 ### ⚡ **My skills**
 
-### 🌐 Web Development:
 #### Frontend:
 
-![HTML, CSS, Javascript, Typescript, Angular](https://skillicons.dev/icons?i=html,css,js,ts,angular)
+![HTML, CSS, Javascript, Typescript, Angular](https://skillicons.dev/icons?i=html,css,js,ts,angular,dart,flutter)
 ---
 
 #### Backend:
